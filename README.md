@@ -1,5 +1,3 @@
-# RestaurantOrderAnalysisSQL
-
 <h1> Case Study: Restaurant Operations Analysis</h1>
 
 <h2>The Situation</h2>
